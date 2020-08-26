@@ -1,1 +1,2 @@
-# Drum-Game
+DRUM GAME WEBSITE
+Developed using  HTML, CSS, BOOTSTRAP AND JAVASCRIPT.
